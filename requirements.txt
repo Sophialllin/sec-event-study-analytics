@@ -1,0 +1,18 @@
+# Database
+psycopg[binary]>=3.1
+pymongo>=4.6
+
+# Market & Financial Data
+yfinance>=0.2.36
+pandas>=2.0
+numpy>=1.24
+
+# Web Scraping
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Web Framework
+flask>=3.0
+
+# Utilities
+python-dotenv>=1.0
