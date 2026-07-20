@@ -1,6 +1,5 @@
 # SEC Event Study Analytics System
 **Extensible Big Data Pipeline for Market Reaction Analysis Around SEC Filings**  
-*Columbia University | Data Engineering Project*
 
 ---
 
